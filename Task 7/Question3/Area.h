@@ -1,3 +1,4 @@
+// a namespace  holding a class and all member variables
 namespace shapes {
     class Square;
     class Triangle;
